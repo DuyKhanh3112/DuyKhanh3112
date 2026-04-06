@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- PREMIUM MỆNH MỘC BANNER: Glassmorphism Gradient Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=DUY%20KHANH%203112&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20ERP%20Specialist&descAlignY=55&descAlign=50&fontColor=ffffff" />
+<!-- PREMIUM MỆNH MỘC BANNER: ANIMATED DYNAMIC GRADIENT (EMERALD & FOREST) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=DUY%20KHANH%203112&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20ERP%20Specialist&descAlignY=55&descAlign=50&fontColor=ffffff" />
 
 <!-- ELEGANT TYPING SVG: Outfit Font -->
 <p align="center">
@@ -59,10 +59,10 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
     <img src="https://skillicons.dev/icons?i=flutter,react" height="40" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
 </p>
 
 <p align="center">
@@ -84,10 +84,10 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced+Enterprise-10B981?style=for-the-badge&logo=odoo&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Microservices-36BCF7?style=for-the-badge&logo=server&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Microservices-36BCF7?style=for-the-badge&logo=server&logoColor=white" height="40" />
 </p>
 
 </div>
@@ -119,6 +119,8 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 
 <br/><br/>
+
+<!-- DYNAMIC QUOTES GENERATOR -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" alt="Programming Quote" />
 
 </div>
