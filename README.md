@@ -36,59 +36,55 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <div align="center">
 
-<!-- Programming Languages & Technologies Grid -->
+<!-- Programming Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Core+Languages-10B981?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mastered+Languages-10B981?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,ts,php,html,css" height="40" />
+    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,ts,php,html,css" height="45" />
   </a>
 </p>
 
+<!-- Web Frameworks -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web+Frameworks-10B981?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web+Frameworks-10B981?style=for-the-badge&logo=react&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,tailwind" height="40" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,tailwind" height="45" />
   </a>
 </p>
 
+<!-- Mobile & Desktop Engineering -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile+%26+Desktop-10B981?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile+%26+Desktop-10B981?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react" height="40" />
+    <img src="https://skillicons.dev/icons?i=flutter,react" height="45" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="45" />
 </p>
 
+<!-- Data & Cloud Infrastructure -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Databases-10B981?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data+%26+DevOps-10B981?style=for-the-badge&logo=docker&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb,redis,firebase" height="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ecosystem-10B981?style=for-the-badge&logo=docker&logoColor=white" />
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,figma,postman" height="40" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb,redis,firebase,docker,aws,git,github,linux,figman,postman" height="45" />
   </a>
 </p>
 
+<!-- Enterprise & Architecture -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced+Enterprise-10B981?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced+Enterprise-10B981?style=for-the-badge&logo=odoo&logoColor=white" height="35" />
   <br/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Microservices-36BCF7?style=for-the-badge&logo=server&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Microservices-36BCF7?style=for-the-badge&logo=server&logoColor=white" height="45" />
 </p>
 
 </div>
