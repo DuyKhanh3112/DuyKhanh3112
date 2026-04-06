@@ -38,7 +38,7 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <!-- Programming Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mastered+Languages-10B981?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Mastered %26 Languages-10B981?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,dotnet,js,ts,php,html,css" height="45" />
@@ -47,7 +47,7 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <!-- Web Frameworks -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Web+Frameworks-10B981?style=for-the-badge&logo=react&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Web %26 Frameworks-10B981?style=for-the-badge&logo=react&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,jquery,tailwind" height="45" />
@@ -56,7 +56,7 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <!-- Mobile & Desktop Engineering -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile+%26+Desktop-10B981?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Mobile %26 Desktop-10B981?style=for-the-badge&logo=flutter&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,react" height="45" />
@@ -70,16 +70,16 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <!-- Data & Cloud Infrastructure -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data+%26+DevOps-10B981?style=for-the-badge&logo=docker&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Data %26 DevOps-10B981?style=for-the-badge&logo=docker&logoColor=white" height="35" />
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb,redis,firebase,docker,aws,git,github,linux,figman,postman" height="45" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,docker,aws,git,github,linux,figma,postman" height="45" />
   </a>
 </p>
 
 <!-- Enterprise & Architecture -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced+Enterprise-10B981?style=for-the-badge&logo=odoo&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Advanced %26 Enterprise-10B981?style=for-the-badge&logo=odoo&logoColor=white" height="35" />
   <br/>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="45" />
   <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" height="45" />
@@ -97,7 +97,7 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyKhanh3112&theme=tokyonight&hide_border=true&stroke=10B981&background=0D1117&ring=10B981&fire=10B981" width="94%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyKhanh3112&theme=tokyonight&hide_border=true&stroke=10B981&ring=10B981&fire=10B981" width="94%" />
 
 </div>
 
@@ -114,7 +114,7 @@ I am a **results-driven Software Engineer** with a deep expertise in building hi
 
 <br/><br/>
 
-<!-- DYNAMIC QUOTES GENERATOR -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" alt="Programming Quote" />
+<!-- MODERN DYNAMIC QUOTES GENERATOR (EMERALD THEME) -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=emerald" alt="Programming Quote" />
 
 </div>
