@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/DuyKhanh3112?label=JOIN+CONNECTION&style=for-the-badge&color=059669&logo=github&logoColor=white" height="35" />
   <img src="https://komarev.com/ghpvc/?username=DuyKhanh3112&color=10B981&style=for-the-badge&label=VISITED+PROFILE&logo=eye&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/STATUS-READY+TO+CODE-10B981?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/STATUS-READY TO CODE-10B981?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35" />
 </p>
 
 </div>
