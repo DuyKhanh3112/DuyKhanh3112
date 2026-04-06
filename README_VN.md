@@ -10,12 +10,12 @@
 <div align="center">
 
 <!-- MỆNH MỘC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DUY%20KHANH%203112&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sáng%20tạo%20%7C%20Phát%20triển%20%7C%20Bền%20vững&descAlignY=55&descAlign=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DUY%20KHANH%203112&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Sáng%20tạo%20%7C%20Phát%20triển%20%7C%20Bền%20vững&descAlignY=55&descAlign=50&fontColor=ffffff" />
 
 <!-- VIBRANT GREEN TYPING SVG -->
 <p align="center">
   <a href="https://github.com/DuyKhanh3112">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=32&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=600&lines=🌿+KỸ+SƯ+PHẦN+MỀM;🌱+KIẾN+TRÚC+SƯ+FULL-STACK;🌳+GIẢI+PHÁP+DI+ĐỘNG;🍃+CHUYÊN+GIA+HỆ+THỐNG" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=22&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=600&lines=🌿+KỸ+SƯ+PHẦN+MỀM;🌱+KIẾN+TRÚC+SƯ+FULL-STACK;🌳+GIẢI+PHÁP+DI+ĐỘNG;🍃+CHUYÊN+GIA+HỆ+THỐNG" alt="Typing SVG" />
   </a>
 </p>
 
@@ -61,12 +61,12 @@ Tôi là một **Kỹ sư Phần mềm năng động và luôn hướng tới s�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DuyKhanh3112&show_icons=true&theme=emerald&hide_border=true&title_color=10B981&icon_color=059669&text_color=ffffff&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyKhanh3112&layout=compact&theme=emerald&hide_border=true&title_color=10B981&icon_color=059669&text_color=ffffff&bg_color=0D1117" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DuyKhanh3112&show_icons=true&theme=radical&hide_border=true&title_color=10B981&icon_color=059669&text_color=ffffff&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyKhanh3112&layout=compact&theme=radical&hide_border=true&title_color=10B981&icon_color=059669&text_color=ffffff&bg_color=0D1117" width="45%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyKhanh3112&theme=emerald&hide_border=true&stroke=10B981&background=0D1117&ring=059669&fire=10B981" width="94%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DuyKhanh3112&theme=radical&hide_border=true&stroke=10B981&background=0D1117&ring=059669&fire=10B981" width="94%" />
 
 </div>
 
